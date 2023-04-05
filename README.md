@@ -1,2 +1,3 @@
 # Module-1-Challenge
-Devloping code to make it better based off starter code.
+Changed out header class for semantic header.
+Consolidated CSS properties for header.
