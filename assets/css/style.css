@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
   color: #d9dcd6;
 }
-/* Changed header div to header nav appropriate to index file changes */
+/* Changed header div to semantic elment header nav appropriate to index file changes */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
