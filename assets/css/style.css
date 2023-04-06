@@ -115,20 +115,9 @@ p {
   margin-bottom: 10px;
   text-align: center;
 }
-
-.benefit-lead img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-.benefit-cost img {
+/* Consolidated IMG CSS styling*/
+.benefit-lead img, .benefit-brand img, .benefit-cost img 
+{
   display: block;
   margin: 10px auto;
   max-width: 150px;
@@ -160,7 +149,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-/* Consolidated CSS */
+/* Consolidated IMG CSS styling */
 .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img
  {
   max-height: 200px;
